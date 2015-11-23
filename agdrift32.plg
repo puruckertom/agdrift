@@ -1,0 +1,257 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: agdrift32 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\tom\LOCALS~1\Temp\RSPF7.tmp" with contents
+[
+/compile_only /include:"Release/" /math_library:fast /nologo /threads /module:".\Release/" /object:".\Release/" 
+"H:\My Documents\Work\agdrift\DLL\Agwtb.for"
+"H:\My Documents\Work\agdrift\DLL\Agwplt.for"
+"H:\My Documents\Work\agdrift\DLL\Agwdrs.for"
+"H:\My Documents\Work\agdrift\DLL\Agvrf.for"
+"H:\My Documents\Work\agdrift\DLL\Agvel.for"
+"H:\My Documents\Work\agdrift\DLL\Agupds.for"
+"H:\My Documents\Work\agdrift\DLL\Agunf.for"
+"H:\My Documents\Work\agdrift\DLL\Agtrgo.for"
+"H:\My Documents\Work\agdrift\DLL\Agtraj.for"
+"H:\My Documents\Work\agdrift\DLL\Agtox.for"
+"H:\My Documents\Work\agdrift\DLL\Agterr.for"
+"H:\My Documents\Work\agdrift\DLL\Agstrm.for"
+"H:\My Documents\Work\agdrift\DLL\Agspln.for"
+"H:\My Documents\Work\agdrift\DLL\Agsome.for"
+"H:\My Documents\Work\agdrift\DLL\Agsmti.for"
+]
+Creating temporary file "C:\DOCUME~1\tom\LOCALS~1\Temp\RSPF8.tmp" with contents
+[
+/compile_only /include:"Release/" /math_library:fast /nologo /optimize:4 /threads /module:".\Release/" /object:".\Release/" 
+"H:\My Documents\Work\agdrift\DLL\Agsmpl.for"
+]
+Creating temporary file "C:\DOCUME~1\tom\LOCALS~1\Temp\RSPF9.tmp" with contents
+[
+/compile_only /include:"Release/" /math_library:fast /nologo /threads /module:".\Release/" /object:".\Release/" 
+"H:\My Documents\Work\agdrift\DLL\Agsmex.for"
+"H:\My Documents\Work\agdrift\DLL\Agsmck.for"
+"H:\My Documents\Work\agdrift\DLL\Agsgrd.for"
+"H:\My Documents\Work\agdrift\DLL\Agsetl.for"
+"H:\My Documents\Work\agdrift\DLL\Agsend.for"
+"H:\My Documents\Work\agdrift\DLL\Agsblk.for"
+"H:\My Documents\Work\agdrift\DLL\Agsbin.for"
+"H:\My Documents\Work\agdrift\DLL\Agsbck.for"
+"H:\My Documents\Work\agdrift\DLL\Agsav.for"
+"H:\My Documents\Work\agdrift\DLL\Agrtrn.for"
+"H:\My Documents\Work\agdrift\DLL\Agrot.for"
+"H:\My Documents\Work\agdrift\DLL\Agread.for"
+"H:\My Documents\Work\agdrift\DLL\Agparm.for"
+"H:\My Documents\Work\agdrift\DLL\Agovl.for"
+"H:\My Documents\Work\agdrift\DLL\Agorch.for"
+"H:\My Documents\Work\agdrift\DLL\Agnums.for"
+"H:\My Documents\Work\agdrift\DLL\Agnozl.for"
+"H:\My Documents\Work\agdrift\DLL\Agnns.for"
+"H:\My Documents\Work\agdrift\DLL\Agnnd.for"
+"H:\My Documents\Work\agdrift\DLL\Agn4s.for"
+"H:\My Documents\Work\agdrift\DLL\Agn4d.for"
+"H:\My Documents\Work\agdrift\DLL\Agn3s.for"
+"H:\My Documents\Work\agdrift\DLL\Agn3d.for"
+"H:\My Documents\Work\agdrift\DLL\Agn2s.for"
+"H:\My Documents\Work\agdrift\DLL\Agn2d.for"
+"H:\My Documents\Work\agdrift\DLL\Agmore.for"
+"H:\My Documents\Work\agdrift\DLL\Aglims.for"
+"H:\My Documents\Work\agdrift\DLL\Aglibr.for"
+"H:\My Documents\Work\agdrift\DLL\Agkrr.for"
+"H:\My Documents\Work\agdrift\DLL\Agkrn.for"
+"H:\My Documents\Work\agdrift\DLL\Agkln.for"
+"H:\My Documents\Work\agdrift\DLL\Agkirk.for"
+"H:\My Documents\Work\agdrift\DLL\Agkick.for"
+"H:\My Documents\Work\agdrift\DLL\Agint.for"
+"H:\My Documents\Work\agdrift\DLL\Aginit.for"
+"H:\My Documents\Work\agdrift\DLL\Aggrnd.for"
+"H:\My Documents\Work\agdrift\DLL\Agfill.for"
+"H:\My Documents\Work\agdrift\DLL\Agextd.for"
+"H:\My Documents\Work\agdrift\DLL\Ageqn.for"
+"H:\My Documents\Work\agdrift\DLL\Agends.for"
+"H:\My Documents\Work\agdrift\DLL\Agdsrn.for"
+"H:\My Documents\Work\agdrift\DLL\Agdsr.for"
+"H:\My Documents\Work\agdrift\DLL\Agdsd.for"
+"H:\My Documents\Work\agdrift\DLL\Agdrp.for"
+"H:\My Documents\Work\agdrift\DLL\Agdrot.for"
+"H:\My Documents\Work\agdrift\DLL\Agdrop.for"
+"H:\My Documents\Work\agdrift\DLL\Agdrin.for"
+"H:\My Documents\Work\agdrift\DLL\Agdep.for"
+"H:\My Documents\Work\agdrift\DLL\Agcov.for"
+"H:\My Documents\Work\agdrift\DLL\Agcon.for"
+"H:\My Documents\Work\agdrift\DLL\Agchk.for"
+"H:\My Documents\Work\agdrift\DLL\Agcan.for"
+"H:\My Documents\Work\agdrift\DLL\Agbkg.for"
+"H:\My Documents\Work\agdrift\DLL\Agaver.for"
+"H:\My Documents\Work\agdrift\DLL\Agave.for"
+"H:\My Documents\Work\agdrift\DLL\Agarea.for"
+]
+Creating temporary file "C:\DOCUME~1\tom\LOCALS~1\Temp\RSPFA.tmp" with contents
+[
+kernel32.lib /nologo /subsystem:windows /dll /incremental:no /pdb:"..\agdrift32.pdb" /machine:I386 /out:"..\agdrift32.dll" /implib:"..\agdrift32.lib" 
+".\Release\Agarea.obj"
+".\Release\Agave.obj"
+".\Release\Agaver.obj"
+".\Release\Agbkg.obj"
+".\Release\Agcan.obj"
+".\Release\Agchk.obj"
+".\Release\Agcon.obj"
+".\Release\Agcov.obj"
+".\Release\Agdep.obj"
+".\Release\Agdrin.obj"
+".\Release\Agdrop.obj"
+".\Release\Agdrot.obj"
+".\Release\Agdrp.obj"
+".\Release\Agdsd.obj"
+".\Release\Agdsr.obj"
+".\Release\Agdsrn.obj"
+".\Release\Agends.obj"
+".\Release\Ageqn.obj"
+".\Release\Agextd.obj"
+".\Release\Agfill.obj"
+".\Release\Aggrnd.obj"
+".\Release\Aginit.obj"
+".\Release\Agint.obj"
+".\Release\Agkick.obj"
+".\Release\Agkirk.obj"
+".\Release\Agkln.obj"
+".\Release\Agkrn.obj"
+".\Release\Agkrr.obj"
+".\Release\Aglibr.obj"
+".\Release\Aglims.obj"
+".\Release\Agmore.obj"
+".\Release\Agn2d.obj"
+".\Release\Agn2s.obj"
+".\Release\Agn3d.obj"
+".\Release\Agn3s.obj"
+".\Release\Agn4d.obj"
+".\Release\Agn4s.obj"
+".\Release\Agnnd.obj"
+".\Release\Agnns.obj"
+".\Release\Agnozl.obj"
+".\Release\Agnums.obj"
+".\Release\Agorch.obj"
+".\Release\Agovl.obj"
+".\Release\Agparm.obj"
+".\Release\Agread.obj"
+".\Release\Agrot.obj"
+".\Release\Agrtrn.obj"
+".\Release\Agsav.obj"
+".\Release\Agsbck.obj"
+".\Release\Agsbin.obj"
+".\Release\Agsblk.obj"
+".\Release\Agsend.obj"
+".\Release\Agsetl.obj"
+".\Release\Agsgrd.obj"
+".\Release\Agsmck.obj"
+".\Release\Agsmex.obj"
+".\Release\Agsmpl.obj"
+".\Release\Agsmti.obj"
+".\Release\Agsome.obj"
+".\Release\Agspln.obj"
+".\Release\Agstrm.obj"
+".\Release\Agterr.obj"
+".\Release\Agtox.obj"
+".\Release\Agtraj.obj"
+".\Release\Agtrgo.obj"
+".\Release\Agunf.obj"
+".\Release\Agupds.obj"
+".\Release\Agvel.obj"
+".\Release\Agvrf.obj"
+".\Release\Agwdrs.obj"
+".\Release\Agwplt.obj"
+".\Release\Agwtb.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\tom\LOCALS~1\Temp\RSPFA.tmp"
+<h3>Output Window</h3>
+Compiling Fortran...
+H:\My Documents\Work\agdrift\DLL\Agwtb.for
+df: info: Some interprocedural optimizations may be disabled when compiling into separate object files
+H:\My Documents\Work\agdrift\DLL\Agwplt.for
+H:\My Documents\Work\agdrift\DLL\Agwdrs.for
+H:\My Documents\Work\agdrift\DLL\Agvrf.for
+H:\My Documents\Work\agdrift\DLL\Agvel.for
+H:\My Documents\Work\agdrift\DLL\Agupds.for
+H:\My Documents\Work\agdrift\DLL\Agunf.for
+H:\My Documents\Work\agdrift\DLL\Agtrgo.for
+H:\My Documents\Work\agdrift\DLL\Agtraj.for
+H:\My Documents\Work\agdrift\DLL\Agtox.for
+H:\My Documents\Work\agdrift\DLL\Agterr.for
+H:\My Documents\Work\agdrift\DLL\Agstrm.for
+H:\My Documents\Work\agdrift\DLL\Agspln.for
+H:\My Documents\Work\agdrift\DLL\Agsome.for
+H:\My Documents\Work\agdrift\DLL\Agsmti.for
+Compiling Fortran...
+H:\My Documents\Work\agdrift\DLL\Agsmex.for
+df: info: Some interprocedural optimizations may be disabled when compiling into separate object files
+H:\My Documents\Work\agdrift\DLL\Agsmck.for
+H:\My Documents\Work\agdrift\DLL\Agsgrd.for
+H:\My Documents\Work\agdrift\DLL\Agsetl.for
+H:\My Documents\Work\agdrift\DLL\Agsend.for
+H:\My Documents\Work\agdrift\DLL\Agsblk.for
+H:\My Documents\Work\agdrift\DLL\Agsbin.for
+H:\My Documents\Work\agdrift\DLL\Agsbck.for
+H:\My Documents\Work\agdrift\DLL\Agsav.for
+H:\My Documents\Work\agdrift\DLL\Agrtrn.for
+H:\My Documents\Work\agdrift\DLL\Agrot.for
+H:\My Documents\Work\agdrift\DLL\Agread.for
+H:\My Documents\Work\agdrift\DLL\Agparm.for
+H:\My Documents\Work\agdrift\DLL\Agovl.for
+H:\My Documents\Work\agdrift\DLL\Agorch.for
+H:\My Documents\Work\agdrift\DLL\Agnums.for
+H:\My Documents\Work\agdrift\DLL\Agnozl.for
+H:\My Documents\Work\agdrift\DLL\Agnns.for
+H:\My Documents\Work\agdrift\DLL\Agnnd.for
+H:\My Documents\Work\agdrift\DLL\Agn4s.for
+H:\My Documents\Work\agdrift\DLL\Agn4d.for
+H:\My Documents\Work\agdrift\DLL\Agn3s.for
+H:\My Documents\Work\agdrift\DLL\Agn3d.for
+H:\My Documents\Work\agdrift\DLL\Agn2s.for
+H:\My Documents\Work\agdrift\DLL\Agn2d.for
+H:\My Documents\Work\agdrift\DLL\Agmore.for
+H:\My Documents\Work\agdrift\DLL\Aglims.for
+H:\My Documents\Work\agdrift\DLL\Aglibr.for
+H:\My Documents\Work\agdrift\DLL\Agkrr.for
+H:\My Documents\Work\agdrift\DLL\Agkrn.for
+H:\My Documents\Work\agdrift\DLL\Agkln.for
+H:\My Documents\Work\agdrift\DLL\Agkirk.for
+H:\My Documents\Work\agdrift\DLL\Agkick.for
+H:\My Documents\Work\agdrift\DLL\Agint.for
+H:\My Documents\Work\agdrift\DLL\Aginit.for
+H:\My Documents\Work\agdrift\DLL\Aggrnd.for
+H:\My Documents\Work\agdrift\DLL\Agfill.for
+H:\My Documents\Work\agdrift\DLL\Agextd.for
+H:\My Documents\Work\agdrift\DLL\Ageqn.for
+H:\My Documents\Work\agdrift\DLL\Agends.for
+H:\My Documents\Work\agdrift\DLL\Agdsrn.for
+H:\My Documents\Work\agdrift\DLL\Agdsr.for
+H:\My Documents\Work\agdrift\DLL\Agdsd.for
+H:\My Documents\Work\agdrift\DLL\Agdrp.for
+H:\My Documents\Work\agdrift\DLL\Agdrot.for
+H:\My Documents\Work\agdrift\DLL\Agdrop.for
+H:\My Documents\Work\agdrift\DLL\Agdrin.for
+H:\My Documents\Work\agdrift\DLL\Agdep.for
+H:\My Documents\Work\agdrift\DLL\Agcov.for
+H:\My Documents\Work\agdrift\DLL\Agcon.for
+H:\My Documents\Work\agdrift\DLL\Agchk.for
+H:\My Documents\Work\agdrift\DLL\Agcan.for
+H:\My Documents\Work\agdrift\DLL\Agbkg.for
+H:\My Documents\Work\agdrift\DLL\Agaver.for
+H:\My Documents\Work\agdrift\DLL\Agave.for
+H:\My Documents\Work\agdrift\DLL\Agarea.for
+Compiling Fortran...
+H:\My Documents\Work\agdrift\DLL\Agsmpl.for
+Linking...
+   Creating library ..\agdrift32.lib and object ..\agdrift32.exp
+
+
+
+<h3>Results</h3>
+agdrift32.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
